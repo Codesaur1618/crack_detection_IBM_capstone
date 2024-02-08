@@ -36,7 +36,7 @@ Crack detection in infrastructure such as roads, buildings, and bridges is cruci
 3. Use the trained models for crack detection by following the guidelines in the [Evaluation](#evaluation) section.
 
 ## Dataset
-The dataset used for training and testing the crack detection models consists of a collection of annotated images containing both cracked and non-cracked surfaces. Due to licensing restrictions, the dataset cannot be provided directly with this repository. However, you can obtain similar datasets from public repositories or contact the project contributors for guidance on obtaining datasets.
+The dataset used for training and testing the crack detection models consists of a collection of annotated images containing both cracked and non-cracked surfaces. Due to licensing restrictions, the dataset cannot be provided directly with this repository. However, you can obtain similar datasets from public repositories or contact the project contributors for guidance on obtaining datasets.The links are given in the jupyter file.
 
 ## Training
 ### PyTorch Model
