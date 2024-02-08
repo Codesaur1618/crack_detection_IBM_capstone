@@ -44,18 +44,18 @@ To train the PyTorch-based ResNet50 model, run the following command:
 
 ```plaintext
 python train_pytorch.py --dataset_path /path/to/dataset
-
+```
 ## Evaluation
 After training the models, you can evaluate their performance using the test set. Run the evaluation script as follows:
 
 ```plaintext
 python evaluate.py --model_path /path/to/saved_model --test_dataset /path/to/test_dataset
-
-Results
+```
+## Results
 The results of model evaluation, including accuracy, precision, recall, and F1-score, will be displayed upon running the evaluation script. Additionally, sample visualizations of crack detection results may be provided in this section.
 
-Contributing
+## Contributing
 Contributions to this project are welcome! If you have suggestions, feature requests, or would like to report a bug, please open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
